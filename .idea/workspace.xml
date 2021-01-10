@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="559e5428-0262-4bff-a428-1662631a48ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wenapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/wenapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,49 +13,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../jenKins_git下载/wenapp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wenapp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="115">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jenKins_git下载/wenapp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/programdata/Anaconda3/Lib/unittest/suite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../web自动化/07《unittest框架&amp;断言使用》-木子-2020.11.13/unnittest_code/unittest_test/login_testcase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../web自动化/07《unittest框架&amp;断言使用》-木子-2020.11.13/课件资料/07 unittest框架和断言操作/code/vip_07web_1113/04 LoginTestSuite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -94,8 +67,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="411" />
-    <option name="y" value="51" />
+    <option name="x" value="103" />
+    <option name="y" value="180" />
     <option name="width" value="1445" />
     <option name="height" value="928" />
   </component>
@@ -104,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,7 +89,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in wenapp.py">
+  <component name="RunManager" selected="Python.wenapp (1)">
     <configuration name="wenapp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="20201230-git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,8 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in wenapp.py" />
         <item itemvalue="Python.wenapp (1)" />
+        <item itemvalue="Python tests.pytest in wenapp.py" />
         <item itemvalue="Python.wenapp" />
       </list>
     </recent_temporary>
@@ -244,17 +217,22 @@
     <history-entry file="pytest_in_wenapp_py - 2021.01.10 at 20h 33m 42s.xml">
       <configuration name="pytest in wenapp.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_wenapp_py - 2021.01.10 at 20h 34m 52s.xml">
+      <configuration name="pytest in wenapp.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_wenapp_py - 2021.01.10 at 20h 48m 36s.xml">
+      <configuration name="pytest in wenapp.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="469" y="65" width="1445" height="928" extended-state="0" />
-    <editor active="true" />
+    <frame x="103" y="180" width="1445" height="928" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13501805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13646209" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47295597" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.56855345" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,23 +323,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../web自动化/07《unittest框架&amp;断言使用》-木子-2020.11.13/unnittest_code/unittest_test/login_testcase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3402" />
-      </provider>
-    </entry>
-    <entry file="file://D:/programdata/Anaconda3/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../web自动化/07《unittest框架&amp;断言使用》-木子-2020.11.13/课件资料/07 unittest框架和断言操作/code/vip_07web_1113/04 LoginTestSuite.py">
@@ -378,20 +342,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../jenKins_git下载/wenapp.py">
+    <entry file="file://$PROJECT_DIR$/../web自动化/07《unittest框架&amp;断言使用》-木子-2020.11.13/unnittest_code/unittest_test/login_testcase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="386">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/programdata/Anaconda3/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/programdata/Anaconda3/Lib/site-packages/pytest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-775" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wenapp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="115">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jenKins_git下载/wenapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
         </state>
       </provider>
     </entry>
