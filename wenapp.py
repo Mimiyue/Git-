@@ -12,11 +12,10 @@ class jenkinsTest(unittest.TestCase):
         print("hello Git4")
 
 if __name__ == '__main__':
-    # suite = unittest.TestSuite()
-    # loader = unittest.TestLoader()
-    # cases = loader.loadTestsFromTestCase(jenkinsTest)
-    # suite.addTests(cases)
-    # runner = unittest.TextTestRunner(stream=open('res.txt', 'a'), verbosity=2)
-    # runner.run(suite)
-    unittest.main()
+    suite = unittest.TestSuite()
+    loader = unittest.TestLoader()
+    cases = loader.loadTestsFromTestCase(jenkinsTest)
+    suite.addTests(cases)
+    runner = unittest.TextTestRunner(stream=open('res.txt', 'a'), verbosity=2)
+    runner.run(suite)
 
